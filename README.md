@@ -18,7 +18,7 @@ Here are a couple projects I've worked on:
 
 - SBU Bathroom Finder [REPO](https://github.com/daminals/bathroom-geometry) | [Project](https://bathroomgeometry.danielkogan.xyz/editor) - Fun Project To Apply Voronoi Diagrams From Computational Geometry
 - [PHREDDIT]() - NO LINK YET But Full-Stack MERN Reddit Clone
-- [SF_Malloc]() - NO LINK YET But Dynamic Memory Allocator Written in C from scratch
+- [SFL-Memory-Allocator](https://github.com/EmceeCiao/SFL-Memory-Allocator) - Dynamic Memory Allocator Written in C
 - [Basic_PBX]() - NO LINK YET But Multi-Threaded Chat Server Written in C from class
 - [BinBuddy](https://github.com/snitski/BinBuddy) - AI Recycling Companion, made for Hack@CEWIT 2023 Hackathon
 - [Fumble](https://github.com/dyscott/fumble) - Project partner finder for CS students, made for SBUHacks 2024 Hackathon
