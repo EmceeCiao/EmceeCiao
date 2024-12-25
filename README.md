@@ -20,7 +20,7 @@ Here are a couple projects I've worked on:
 - Fumble [REPO](https://github.com/dyscott/fumble) | [Project](https://fumble.dyscott.xyz/) - Project partner finder for CS students, made for SBUHacks 2024 Hackathon
 - [SFL-Memory-Allocator](https://github.com/EmceeCiao/SFL-Memory-Allocator) - Dynamic Memory Allocator Written in C
 - [PHREDDIT]() - NO LINK YET But Full-Stack MERN Reddit Clone
-- [Basic_PBX]() - NO LINK YET But Multi-Threaded Chat Server Written in C from class
+- [PBX_Telly_System](https://github.com/EmceeCiao/PBX_Telly_System) - Multi-Threaded Chat Server Written in C
 - [BinBuddy](https://github.com/snitski/BinBuddy) - AI Recycling Companion, made for Hack@CEWIT 2023 Hackathon
 
 Currently Interested In: 
