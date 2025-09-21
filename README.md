@@ -6,10 +6,10 @@
 While I don't know exactly what I'll be doing in the future as I'm interested in a wide variety of topics in computer science, I'm open to learning lots of new things and looking forward to meeting new people!<br><br>
 Here's a few things about me: 
 
-- 🎒 CS and AMS Junior @ Stony Brook University, considering accelerated masters (Class of 2026)
+- 🎒 CS and AMS Senior @ Stony Brook University, pursuing an accelerated masters (Class of 2027)
 - ✍️ Previous Undergraduate Research Assistant @ SBU PoliTech Team (2023-2024)
 - 📖 Teaching Assistant for Intro to Object-Oriented Programming (Spring 2023)
-- 🎧 Lead Student Technician @ SBU Division of IT
+- 🎧 Lead Student Technician & Development Team Lead @ SBU Division of IT Client Support
 - 💚 Love Reading, Eating Good Food, and Walking 
 
 ## 💻 Projects 
@@ -24,7 +24,7 @@ Here are a couple projects I've worked on:
 - [BinBuddy](https://github.com/snitski/BinBuddy) - AI Recycling Companion, made for Hack@CEWIT 2023 Hackathon
 
 Currently Interested In: 
-- Writing My Own Interpreter and Compiler in GO to learn GO and understand compilers on a deeper level! 
+- Writing My Own Interpreter and Compiler in GO to learn GO and understand compilers on a deeper level!
   
 ## 🧰 Languages and Tools 
 <!-- Badges from https://github.com/Ileriayo/markdown-badges -->
