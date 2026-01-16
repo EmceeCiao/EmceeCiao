@@ -15,7 +15,7 @@ Here's a few things about me:
 ## 💻 Projects 
 
 Here are a couple projects I've worked on: 
-- [Mako Fast Reads] (https://github.com/EmceeCiao/mako-fast-reads) - Implemented a fast read only path onto a fork of Mako, a Distributed Geo Replicated Database presented in [OSDI 25](https://www.usenix.org/conference/osdi25/presentation/shen-weihai)
+- [Mako Fast Reads](https://github.com/EmceeCiao/mako-fast-reads) - Implemented a fast read only path onto a fork of Mako, a Distributed Geo Replicated Database presented in [OSDI 25](https://www.usenix.org/conference/osdi25/presentation/shen-weihai)
 - SBU Bathroom Finder [REPO](https://github.com/daminals/bathroom-geometry) | [Project](https://bathroomgeometry.danielkogan.xyz/editor) - Fun Project To Apply Voronoi Diagrams From Computational Geometry
 - Fumble [REPO](https://github.com/dyscott/fumble) | [Project](https://fumble.dyscott.xyz/) - Project partner finder for CS students, made for SBUHacks 2024 Hackathon
 - [SFL-Memory-Allocator](https://github.com/EmceeCiao/SFL-Memory-Allocator) - Dynamic Memory Allocator Written in C
